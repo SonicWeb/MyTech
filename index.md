@@ -5,7 +5,7 @@
 ### C/C++
 * [CPP reference](http://en.cppreference.com/w/cpp)
 * [Boost](http://www.boost.org/)
-* [码农周刊](http://weekly.manong.io/)
+
 
 ### Python
 
@@ -48,23 +48,5 @@
 ### Others
 
 ## Cool Stuff
-
-### C/C++
-
-### Python
-
-### NodeJS
-
-### Golang
-
-### Front-End
-
-### HTTP/HTTP Server
-
-### Git
-
-### Linux
-
-### Database
-
-### Others
+* [码农周刊](http://weekly.manong.io/)
+* [开发者头条](http://toutiao.io/)
