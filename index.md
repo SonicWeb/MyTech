@@ -3,7 +3,10 @@
 
 ## Websites
 ### C/C++
-for test
+* [CPP reference](http://en.cppreference.com/w/cpp)
+* [Boost](http://www.boost.org/)
+* [码农周刊](http://weekly.manong.io/)
+
 ### Python
 
 ### NodeJS
