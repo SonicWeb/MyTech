@@ -8,7 +8,6 @@
 
 
 ### Python
-* [Python Cookbook](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 ### NodeJS
 
@@ -19,7 +18,6 @@
 ### HTTP/HTTP Server
 
 ### Git
-* [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ### Linux
 
@@ -32,6 +30,7 @@
 ### C/C++
 
 ### Python
+* [Python Cookbook](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 ### NodeJS
 
@@ -42,6 +41,7 @@
 ### HTTP/HTTP Server
 
 ### Git
+* [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ### Linux
 
