@@ -16,6 +16,7 @@
 ### Front-End
 
 ### HTTP/HTTP Server
+* [Ngnix Architecture](http://www.aosabook.org/en/nginx.html)
 
 ### Git
 
