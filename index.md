@@ -58,3 +58,4 @@
 * [开发者头条](http://toutiao.io/)
 * [Gitbook](http://www.gitbook.com/) 很多好的在线发布的书
 * [ROS](http://www.ros.org/) A robots OS
+* [V2EX](https://www.v2ex.com) 不错的程序员社区
